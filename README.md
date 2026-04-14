@@ -207,7 +207,7 @@ Contributions are welcome. Please open an issue to discuss proposed changes befo
 Azure Solutions Architect & AI Engineer | Associate Consultant @ TCS  
 Triple Microsoft Certified: AZ-305 · AI-102 · AZ-104
 
-[![LinkedIn]](https://www.linkedin.com/in/praveen11singh)
+[![LinkedIn]](https://www.linkedin.com/in/praveen-kumar-b52a1a1a0/)
 [![GitHub]](https://github.com/praveen11singh)
 ---
 
