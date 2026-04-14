@@ -3,7 +3,7 @@
 [![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://ai.azure.com)
 [![DeepSeek](https://img.shields.io/badge/DeepSeek-R1%20%7C%20V3-4A90D9?style=flat)](https://azure.microsoft.com/en-us/blog/deepseek-r1-is-now-available-on-azure-ai-foundry/)
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 > Part of the **Microsoft Foundry Open-Source Series** — production-ready reference implementations for Azure AI Foundry.
 
