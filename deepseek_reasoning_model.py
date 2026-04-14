@@ -24,10 +24,10 @@ response = client.chat.completions.create(
   max_tokens=10000  # Limit response length
 )
 
-#print(response.choices[0].message)
+print(response.choices[0].message)
 
 # To get detail expmanation
-#print(response.model_dump_json(indent=2))
+print(response.model_dump_json(indent=2))
 
 # To get less response, you can set max_tokens to a smaller value, e.g., 100 or 200.
 match = re.match(r"<think>(.*?)</think>(.*)", response.choices[0].message.content, re.DOTALL)
