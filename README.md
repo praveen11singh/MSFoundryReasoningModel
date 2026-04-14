@@ -5,13 +5,12 @@
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
 
-> Part of the **Microsoft Foundry Open-Source Series** — production-ready reference implementations for Azure AI Foundry.
+> Part of the **Microsoft Foundry Open-Source Series** — production-ready reference implementations for Microsoft Foundry.
 
----
 
 ## Overview
 
-**MSFoundryReasoningModel** demonstrates how to integrate and invoke **DeepSeek reasoning models** (R1, V3) via **Azure AI Foundry** using the Python SDK. It covers how to configure the client, send prompts to a reasoning-capable model, parse the structured `<think>` / answer output, and surface both the chain-of-thought reasoning trace and the final response to downstream consumers.
+**MSFoundryReasoningModel** demonstrates how to integrate and invoke **DeepSeek reasoning models** (R1, V3) via **Microsoft Foundry** using the Python SDK. It covers how to configure the client, send prompts to a reasoning-capable model, parse the structured `<think>` / answer output, and surface both the chain-of-thought reasoning trace and the final response to downstream consumers.
 
 Reasoning models differ from standard LLMs in a fundamental way: they expose an internal deliberation process before committing to an answer. This repo shows you how to capture and use that reasoning trace in production workloads — not just discard it.
 
@@ -42,8 +41,8 @@ MSFoundryReasoningModel/
 ## Prerequisites
 
 - Python 3.11+
-- Azure subscription with **Azure AI Foundry** project
-- DeepSeek R1 or V3 model deployed via Azure AI Foundry model catalogue
+- Azure subscription with **Microsoft Foundry** project
+- DeepSeek R1 or V3 model deployed via Microsoft Foundry model catalogue
 - `azure-ai-inference` SDK (`>=1.0.0b9`)
 
 ---
